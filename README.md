@@ -10,3 +10,10 @@ configured by the user including FM alogorithims (the arrangement of modulation 
 lfo depth and rate, feedback, distortion, delay and envelope shapes.
 
 
+- [] make stereo
+- [] distortion
+- [] delay
+- [] chorus
+- [] loop envelopes
+- [] lfo
+- [] 
