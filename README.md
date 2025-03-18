@@ -16,4 +16,4 @@ lfo depth and rate, feedback, distortion, delay and envelope shapes.
 - [] chorus
 - [] loop envelopes
 - [] lfo
-- [] 
+- [] expose mod filter cutoff parameter to user
