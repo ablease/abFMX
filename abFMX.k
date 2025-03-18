@@ -202,7 +202,7 @@ struct abFMX : Synth {
 					   Slider("Gain", 0, 1, 0.5, { 280,270,10,60 } ), },
 
 			
-			Menu("Algo", { 250,20,100,30 },"op4>op3>op2>op1",
+			Menu("Algo", { 225,20,150,30 },"op4>op3>op2>op1",
 			 			 "op4+op3+op2>op1",
 			 			 "op4>op3+op2>op1",
 			 			 "op4+op2>op3>op1")
