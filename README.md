@@ -80,6 +80,12 @@ I would also like to add bypass buttons to the effects. I think this would help 
 
 ### Usage Instructions!
 
+Here is a little video demo of ABFMX in action
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=UMSWkmtYazA
+" target="_blank"><img src="http://img.youtube.com/vi/UMSWkmtYazA/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="1280" height="720" border="10" /></a>
+
 Load and build the synth in [Klang Studio](https://nash.audio/klang/studio/). From the default settings a simple sine organ tone is heard. 
 
 Set all the parameters for op3Mod and op4Mod to zero, we will only focus on the op2 for now to modulate op1. 
